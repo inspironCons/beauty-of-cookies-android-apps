@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Beauty of eid cookies</string>
+    <string name="item_title">title</string>
+    <string name="detail">detail</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Bahan">Bahan</string>
+    <string name="cara">Cara Memasak</string>
+    <string name="sumber">Sumber : </string>
+    <string name="profil_activity">Profil</string>
+    <string name="muhammad_ramdhon">Muhammad Ramdhon</string>
+    <string name="email">dodon.consult@gmail.com</string>
+    <string name="score">Score Taste :</string>
+</resources>

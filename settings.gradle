@@ -1,0 +1,2 @@
+rootProject.name = "submision_dicoding_pertama"
+include ':app'
